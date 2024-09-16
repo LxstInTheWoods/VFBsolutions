@@ -29,7 +29,12 @@ h4{color: #2c92ff;}
 
 }
 #navbackg{
-
-    background-image: url("../img/genericnavbackg.png");
-    background-color: red;
+    width: 700px;
+    height: 500px;
+    border-radius: 99px;
+    position: absolute;
+    right: -3em;
+    top: -1em;
+    z-index: -1;
+    background-image: url("./img/genericnavbackg.png");
 }
